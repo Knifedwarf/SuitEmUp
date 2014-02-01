@@ -82,8 +82,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Bullet.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Config.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Customize.cpp" />
+    <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\EnemyBullet.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\EnemyObject.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Engine.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Game.cpp" />
@@ -93,6 +95,7 @@
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\MainMenu.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\MovingGameObject.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Options.cpp" />
+    <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\PlayerBullet.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\PlayerObject.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\SpriteManager.cpp" />
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Truck.cpp" />
@@ -100,8 +103,10 @@
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Bullet.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Config.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Customize.h" />
+    <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\EnemyBullet.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\EnemyObject.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Engine.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Game.h" />
@@ -111,6 +116,7 @@
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\MainMenu.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\MovingGameObject.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Options.h" />
+    <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\PlayerBullet.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\PlayerObject.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Sprite.h" />
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\SpriteManager.h" />

@@ -75,6 +75,15 @@
     <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\EnemyObject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\EnemyBullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\PlayerBullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\StateManager.h">
@@ -129,6 +138,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\EnemyObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\EnemyBullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\1. Suit %27em up Game Development\SuitEmUp\SuitEmUp\PlayerBullet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
