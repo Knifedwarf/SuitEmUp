@@ -13,5 +13,5 @@ PlayerBullet::PlayerBullet(Truck* truck, PlayerObject* player, sf::Sprite* sprit
 	float dist = sqrt(delta_x*delta_x + delta_y*delta_y); //distance between player and base
 
 //	m_velocity.x=(speed*deltatime*delta_x)/dist;	//sets velocity in an outgoing line between player and base
-//	m_velocity.y=(speed*deltatime*delta_y)/dist; //
+//	m_velocity.y=(speed*deltatime*delta_y)/dist;   //
 };

@@ -1,8 +1,8 @@
 //EnemyObject.h
 
-#include "MovingGameObject.h"
-
 #pragma once
+
+#include "MovingGameObject.h"
 
 class Truck;
 
