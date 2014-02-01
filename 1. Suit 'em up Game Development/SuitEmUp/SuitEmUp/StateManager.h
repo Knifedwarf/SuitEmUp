@@ -7,7 +7,7 @@ class InputManager;
 namespace sf{
 	class RenderWindow;
 }
-
+//viktor was here
 class StateManager
 {
 	friend class Engine;
